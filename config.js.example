@@ -1,0 +1,2 @@
+const GUILD_ID = "952695802415943750"; // Id of the discord server
+export {GUILD_ID};
